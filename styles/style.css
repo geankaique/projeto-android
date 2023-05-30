@@ -65,7 +65,7 @@ header p {
 
 header h1{
     margin-bottom: 20px;
-    color: var(--cor3);
+    color: white;
     font-family: var(--fonte-destaque);
     font-size: 3em;    
     text-shadow: 2px 2px 0px black ;
